@@ -1,4 +1,3 @@
-Jenkins-project
 Automate Code Deployment Using CI/CD Pipeline (GitHub Actions) • Objective: Set up a CI/CD pipeline to build and deploy a web app. In this project, we leverage Jenkins to create a robust CI/CD pipeline that integrates tools like Docker, and OWASP Dependency Check to deliver secure and high-quality software. Tools used:
 
 1.GitHub
